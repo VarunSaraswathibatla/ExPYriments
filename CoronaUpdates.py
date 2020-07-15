@@ -1,11 +1,11 @@
-/* My this program scrapes text(corona update figures) from notable websites (worldometers.info and mohfw.gov.in)......
+""" My this program scrapes text,(corona update figures) from notable websites (worldometers.info and mohfw.gov.in)......
    Corona updates from any specific country can be known by running this program.....
    Much more detailed information is showed up for India by tabulating all the updates of every state as per the mohfw website
    
    Note: 1.This program is meant only for brushing up python concepts and not to legalize or promote any websites.
          2.This program is not responsible for any false figures as it is just scraped from aforementioned sites.So
            donot solely trust these figures.
- */
+ """
          
 
 import requests
