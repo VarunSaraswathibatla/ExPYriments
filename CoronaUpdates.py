@@ -5,6 +5,9 @@
    Note: 1.This program is meant only for brushing up python concepts and not to legalize or promote any websites.
          2.This program is not responsible for any false figures as it is just scraped from aforementioned sites.So
            donot solely trust these figures.
+         3.Since the program works on web scraping any changes or issues in the websites may cause some tracebacks.So
+           if any traceback error occurs try to run the program after few seconds.
+           
  """
          
 
