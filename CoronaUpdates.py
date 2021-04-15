@@ -39,7 +39,7 @@ nat=["INDIA","India","india"]
 while True:
                 print("Enter the country name you want to know about its corona updates:")
                 country=input()
-                if country=="USA"or country=="usa"or country=="america"or country=="AMERICA"or country=="America" or country=="US":
+                if country=="USA".casefold() or country=="america".casefold():
                         country="us"       
                 try:
                                 url= "http://www.worldometers.info/coronavirus/country/"+country
